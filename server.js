@@ -132,8 +132,8 @@ var contact={
 	content:`
 	<div class="centeredtext text-big whitetext neontext">
 		<p>
-			<p>Email: aja.sharma1101@gmail.com</p>
-			<p>GitHub: www.github.com/AjaSharma93</p>
+			<p>Email: vinodhkumar501@gmail.com</p>
+			<p>GitHub: www.github.com/vinodhkumar501</p>
 		</p>
 	</div>`
 };
