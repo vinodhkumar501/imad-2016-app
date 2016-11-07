@@ -1,1 +1,16 @@
 
+body{
+	font-family: Georgia, serif;
+}
+
+.center{
+	text-align:center;
+}
+	
+.bold{
+	font-weight:bold;
+}
+
+.italics{
+	font-style: italic;
+}
