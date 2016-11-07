@@ -116,12 +116,12 @@ var about={
 	<div class="inline">
 		<img class="resizeProfileImg" src="/ui/images/me.jpg" alt="My Profile">
 		<div id="wrapper">
-			<p>Name: Aja Sharma</p>
-			<p>From Bangalore, Karnataka</p>
-			<p>Graduated in B.E(E.C.E) in 2016<p>
-			<p>Android and Java developer</p>
-			<p>Interests: Coding, Football, Music, Gaming</p>
-			<p>Thrilled to work with IMAD</p>
+			<p>Name: Vinodh Kumar A.B</p>
+			<p>From Puttur, Andhra Pradesh</p>
+			<p>Graduated in B.Tech, CSE at SVPCET in 2014<p>
+			<p>Language Learner</p>
+			<p>Interests: Coding, Cricket, Music,Learning about Gaming</p>
+			<p>Interested to work with IMAD</p>
 		</div>
 	</div>`
 };
